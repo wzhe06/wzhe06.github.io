@@ -95,3 +95,5 @@ friends: [
         href: "https://zhuanlan.zhihu.com/scientific-invest"
     }
 ]
+
+theme: jekyll-theme-cayman
