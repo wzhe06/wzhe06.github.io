@@ -23,6 +23,7 @@
 
 * {
   box-sizing: border-box;
+  padding-top: 3px;
 }
 
 body {
@@ -160,7 +161,6 @@ a {
 }
 
 .main-content {
-  padding-top: 3px;
   word-wrap: break-word;
 
   :first-child {
