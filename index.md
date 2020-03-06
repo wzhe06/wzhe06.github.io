@@ -32,6 +32,12 @@ layout: default
 * Zhe Wang, Sanhong Gao, et al. Elastic Parallel Computing Platform based Lunar Rover Stereo Vision System Design. 63th IAC. 2012 Oct.
 * Zhe Wang, Jie Tang et al. Authority-based approach for advisor mining and individual recommendation. China Science paper. 2010 May.
 
+## 开源项目
+* [基于Spark的CTR预估模型](http://wzhe.me/CTRmodel/)
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=CTRmodel&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+* [计算广告论文列表及业界分享](http://wzhe.me/Ad-papers/)
+* [推荐系统论文列表及业界分享](http://wzhe.me/Reco-papers/)
+
 ## 业界分享
 
 ## 技术博客
