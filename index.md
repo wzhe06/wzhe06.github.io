@@ -16,6 +16,11 @@ layout: default
 * **微信公众号**: 王喆的机器学习笔记 (wangzhenotes)
 
 ## 工程和研究方向
+* 基于Tensorflow，Spark Mllib的深度学习推荐模型，CTR预估模型
+* 智能预算控制算法，广告预算分配及Pacing策略
+* 高并发推荐系统服务器架构，Model serving及online inference工程框架
+* Flink等流计算框架在推荐模型准实时训练和特征实时更新中的应用
+* Spark等大数据框架在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
 
