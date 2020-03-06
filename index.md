@@ -15,7 +15,7 @@ layout: default
 * **知乎**:  [https://www.zhihu.com/people/wang-zhe-58/](https://www.zhihu.com/people/wang-zhe-58/)
 * **微信公众号**: 王喆的机器学习笔记 (wangzhenotes)
 
-## 工程和研究方向
+## 研究和工程方向
 * 基于Tensorflow，Spark Mllib的深度学习推荐模型，CTR预估模型
 * 智能预算控制算法，广告预算分配及Pacing策略
 * 高并发推荐系统服务器架构，Model serving及online inference工程框架
