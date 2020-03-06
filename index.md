@@ -3,10 +3,10 @@ layout: default
 ---
 <img height="220" align="left"  style="padding-right:30px;" src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/wzphoto.png"/>
 * 我目前是流媒体公司Roku的资深机器学习工程师，推荐系统架构负责人。
-* 曾任Hulu高级研究工程师，品友互动广告效果算法组负责人。
+* 曾任Hulu高级研究员，品友互动广告效果算法组负责人。
 * 毕业于清华大学计算机系，清华大学KEG实验室学术搜索引擎AMiner早期贡献者。
 * 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
-* CTR Model，Ad-papers等开源项目发起人和主要贡献者，4.5k stars+
+* CTR Model，Ad-papers等开源项目发起人和主要贡献者，4.5k stars+。
 * 著有《深度学习推荐系统》，《百面机器学习》等技术书籍，读者5万+。
 
 ## 联系方式
@@ -47,6 +47,16 @@ layout: default
 ## 业界分享
 
 ## 技术博客
+- 机器学习模型
+  - [透着浓浓工业风的Facebook深度学习推荐系统论文](https://zhuanlan.zhihu.com/p/82839874)
+  - level 2 item
+- 工程实践
+  - [一文读懂「Parameter Server」的分布式机器学习训练原理](https://zhuanlan.zhihu.com/p/82116922)
+- 量化投资
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
