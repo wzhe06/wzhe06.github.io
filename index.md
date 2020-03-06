@@ -15,7 +15,7 @@ layout: default
 * **知乎**: [https://www.zhihu.com/people/wang-zhe-58/](https://www.zhihu.com/people/wang-zhe-58/)
 * **微信公众号**: 王喆的机器学习笔记 (wangzhenotes)
 * **GitHub**: [https://github.com/wzhe06](https://github.com/wzhe06)
-<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px; padding-left:40px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px; padding-left:40px"></iframe>
 
 ## 研究和工程方向
 * 基于Tensorflow，Spark Mllib的深度学习推荐模型，CTR预估模型
