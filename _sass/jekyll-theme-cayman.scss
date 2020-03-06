@@ -23,7 +23,6 @@
 
 * {
   box-sizing: border-box;
-  padding-top: 3px;
 }
 
 body {
@@ -289,6 +288,11 @@ a {
 
   ul{
     padding-bottom:0px;
+    margin-bottom: 7px;
+  }
+  
+  li{
+    padding-top:3px;
   }
   
   ol {
