@@ -7,9 +7,21 @@ layout: default
 * 毕业于清华大学计算机系，清华大学KEG实验室学术搜索引擎AMiner早期贡献者。
 * 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
 * CTR Model，Ad-papers等开源项目发起人和主要贡献者，4.5k stars+
-* 著有《深度学习推荐系统》，《百面机器学习》，《机器学习实践指南》等书。
+* 著有《深度学习推荐系统》，《百面机器学习》等技术书籍，读者5万+。
 
-<br>
+## 联系方式
+* Email: wzhe06[at]gmail.com
+* LinkedIn: https://www.linkedin.com/in/zhe-wang-profile/
+* 知乎: https://www.zhihu.com/people/wang-zhe-58
+* 微信公众号: 王喆的机器学习笔记 (wangzhenotes)
+
+## 工程和研究方向
+
+## 部分论文、书籍和专利
+
+## 业界分享
+
+## 技术博客
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
