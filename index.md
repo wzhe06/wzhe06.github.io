@@ -35,12 +35,14 @@ layout: default
 * Zhe Wang, Jie Tang et al. Authority-based approach for advisor mining and individual recommendation. China Science paper. 2010 May.
 
 ## 开源项目
-* [基于Spark的CTR预估模型](http://wzhe.me/CTRmodel/)
+* [CTRmodel](http://wzhe.me/CTRmodel/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=CTRmodel&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
-* [计算广告论文列表及业界分享](http://wzhe.me/Ad-papers/)
+* [Ad-papers](http://wzhe.me/Ad-papers/): 计算广告领域的经典论文、学习资料、业界分享。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
-* [推荐系统论文列表及业界分享](http://wzhe.me/Reco-papers/)
+* [Reco-papers](http://wzhe.me/Reco-papers/):  推荐系统领域的经典论文、学习资料、业界分享。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Reco-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
+* [ipdatabase](http://wzhe.me/ipdatabase/):  将IP快速转换成地理位置的工具库，直接提取用户的地理位置特征。
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=ipdatabase&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 
 ## 业界分享
 
