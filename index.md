@@ -35,8 +35,10 @@ layout: default
 ## 开源项目
 * [基于Spark的CTR预估模型](http://wzhe.me/CTRmodel/)
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=CTRmodel&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-* [计算广告论文列表及业界分享](http://wzhe.me/Ad-papers/)<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-* [推荐系统论文列表及业界分享](http://wzhe.me/Reco-papers/)<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Reco-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+* [计算广告论文列表及业界分享](http://wzhe.me/Ad-papers/)
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+* [推荐系统论文列表及业界分享](http://wzhe.me/Reco-papers/)
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Reco-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 ## 业界分享
 
