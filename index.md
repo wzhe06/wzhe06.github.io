@@ -2,10 +2,10 @@
 layout: default
 ---
 <img height="220" align="left"  style="padding-right:30px;" src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/wzphoto.png"/>
-* 我目前是流媒体公司Roku的资深机器学习工程师，推荐系统架构负责人。曾任Hulu高级研究工程师，品友互动广告效果算法组负责人。
-* 毕业于清华大学计算机系，是清华大学KEG实验室学术搜索引擎AMiner早期发起人之一。
-* 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
-* 著有《深度学习推荐系统》，《百面机器学习》，《机器学习实践指南》等技术书籍。
+*   我目前是流媒体公司Roku的资深机器学习工程师，推荐系统架构负责人。曾任Hulu高级研究工程师，品友互动广告效果算法组负责人。
+*   毕业于清华大学计算机系，是清华大学KEG实验室学术搜索引擎AMiner早期发起人之一。
+*   主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
+*   著有《深度学习推荐系统》，《百面机器学习》，《机器学习实践指南》等技术书籍。
 
 <br>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
