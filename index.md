@@ -23,6 +23,14 @@ layout: default
 * Spark等大数据框架在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
+* Zhe Wang. Deep Learning Recommender System( 深度学习推荐系统). Electronics Industry Press. 2020 Mar.
+* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning( 百面机器学习) . Posts & Telecom Press. 2018 July.
+* Zhe Wang(Translator). Practical Machine Learning Cookbook. China Machine Press. 2018 Mar.
+* Zhe Wang. An Advertising Budget Control Algorithm and Device. Patent issuer number cn 201710653506.6. 2017 Aug
+* Zhe Wang. An Advertising Deliver Algorithm and Device.  Patent issuer number cn 201710653068.3. 2017 Aug
+* Zhe Wang, et al. A Parallel Delaunay Algorithm Applied in Lunar Rover Stereo Vision System. 2nd ICCSEE. 2013 Apr.
+* Zhe Wang, Sanhong Gao, et al. Elastic Parallel Computing Platform based Lunar Rover Stereo Vision System Design. 63th IAC. 2012 Oct.
+* Zhe Wang, Jie Tang et al. Authority-based approach for advisor mining and individual recommendation. China Science paper. 2010 May.
 
 ## 业界分享
 
