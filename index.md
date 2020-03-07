@@ -26,14 +26,14 @@ layout: default
 * Spark等大数据框架在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
-* Zhe Wang. Deep Learning Recommender System(深度学习推荐系统). Electronics Industry Press. 2020 Mar.
-* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习](https://item.jd.com/12401859.html)) . Posts & Telecom Press. 2018 Jul.
-* Zhe Wang(Translator). Practical Machine Learning Cookbook([机器学习实践指南](https://item.jd.com/12336282.html)). China Machine Press. 2018 Mar.
-* Zhe Wang. [An Advertising Budget Control Algorithm and Device](http://www.soopat.com/Patent/201710653506). Patent number cn 201710653506. 2017 Aug.
-* Zhe Wang. [An Advertising Deliver Algorithm and Device](http://www.soopat.com/Patent/201710653068). Patent number cn 201710653068. 2017 Aug.
-* Zhe Wang, Sanhong Gao, et al. [A Parallel Delaunay Algorithm Applied in Lunar Rover Stereo Vision System](https://www.atlantis-press.com/proceedings/iccsee-13/4645). 2nd ICCSEE. 2013 Apr.
-* Zhe Wang, Sanhong Gao, et al. [Elastic Parallel Computing Platform based Lunar Rover Stereo Vision System Design](https://www.scientific.net/AMM.380-384.3950). 63th IAC. 2012 Oct.
-* Zhe Wang, Jie Tang, et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science paper. 2010 May.
+* Zhe Wang. Deep Learning Recommender System(深度学习推荐系统). Electronics Industry Press. 2020.
+* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习](https://item.jd.com/12401859.html)) . Posts & Telecom Press. 2018.
+* Zhe Wang(Translator). Practical Machine Learning Cookbook([机器学习实践指南](https://item.jd.com/12336282.html)). China Machine Press. 2018.
+* Zhe Wang. [An Advertising Budget Control Algorithm and Device](http://www.soopat.com/Patent/201710653506). Patent number cn 201710653506. 2017.
+* Zhe Wang. [An Advertising Deliver Algorithm and Device](http://www.soopat.com/Patent/201710653068). Patent number cn 201710653068. 2017.
+* Zhe Wang, Sanhong Gao, et al. [A Parallel Delaunay Algorithm Applied in Lunar Rover Stereo Vision System](https://www.atlantis-press.com/proceedings/iccsee-13/4645). 2nd ICCSEE. 2013.
+* Zhe Wang, Sanhong Gao, et al. [Elastic Parallel Computing Platform based Lunar Rover Stereo Vision System Design](https://www.scientific.net/AMM.380-384.3950). 63th IAC. 2012.
+* Zhe Wang, Jie Tang, et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science paper. 2010.
 
 ## 开源项目
 * [CTRmodel](http://wzhe.me/CTRmodel/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
