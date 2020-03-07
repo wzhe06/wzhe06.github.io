@@ -3,7 +3,7 @@ layout: default
 ---
 <img height="220" align="left"  style="padding-right:30px;" src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/wzphoto.png"/>
 * 我目前是流媒体公司 [Roku](https://www.linkedin.com/company/roku/) 的资深机器学习工程师，推荐系统架构负责人。
-* 曾任 [Hulu] (https://www.linkedin.com/company/hulu/)高级研究员，[品友互动] (https://www.linkedin.com/company/ipinyou/)广告效果算法组负责人。
+* 曾任 [Hulu](https://www.linkedin.com/company/hulu/) 高级研究员，[品友互动](https://www.linkedin.com/company/ipinyou/) 广告效果算法组负责人。
 * 毕业于清华大学计算机系，清华大学KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
 * 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
 * [CTRmodel](http://wzhe.me/CTRmodel/)，[Ad-papers](http://wzhe.me/Ad-papers/) 等开源项目发起人和主要贡献者，4.5k stars+。
@@ -27,8 +27,8 @@ layout: default
 
 ## 部分论文、书籍和专利
 * Zhe Wang. Deep Learning Recommender System(深度学习推荐系统). Electronics Industry Press. 2020 Mar.
-* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习]((https://item.jd.com/12401859.html))) . Posts & Telecom Press. 2018 July.
-* Zhe Wang(Translator). Practical Machine Learning Cookbook. China Machine Press. 2018 Mar.
+* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习](https://item.jd.com/12401859.html)) . Posts & Telecom Press. 2018 July.
+* Zhe Wang(Translator). Practical Machine Learning Cookbook([机器学习实践指南](https://item.jd.com/12336282.html)). China Machine Press. 2018 Mar.
 * Zhe Wang. [An Advertising Budget Control Algorithm and Device](http://www.soopat.com/Patent/201710653506). Patent issuer number cn 201710653506.6. 2017 Aug
 * Zhe Wang. [An Advertising Deliver Algorithm and Device](http://www.soopat.com/Patent/201710653068).  Patent issuer number cn 201710653068.3. 2017 Aug
 * Zhe Wang, et al. [A Parallel Delaunay Algorithm Applied in Lunar Rover Stereo Vision System](https://www.atlantis-press.com/proceedings/iccsee-13/4645). 2nd ICCSEE. 2013 Apr.
