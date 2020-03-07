@@ -90,6 +90,7 @@ layout: default
   - [大数据和金融的核心价值是什么？](https://zhuanlan.zhihu.com/p/20292789)
   - [从上升到破灭，股市各阶段的心理学](https://zhuanlan.zhihu.com/p/20292789)
 
+<br/>
 ```
-The final element.
+Updated on 03/06/2020 © Zhe Wang, 欢迎业界同行，相关方向研究生同学的交流、讨论、以及以及一切形式的合作。
 ```
