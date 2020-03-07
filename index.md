@@ -45,13 +45,11 @@ layout: default
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=ipdatabase&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 
 ## 业界分享
-
 * Machine Learning Applications in Hulu Advertising System. Hulu Santa Monica, 2017
 * [计算广告中的探索与利用问题](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/%5BEE%20Intro%5D%20Exploration%20and%20Exploitation%20Problem%20Introduction%20by%20Wang%20Zhe%20%28Hulu%202017%29.pdf). Hulu 北京. 2017
 * [广告系统中的智能预算控制策略](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E9%A2%84%E7%AE%97%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5.pdf). 品友互动 北京. 2016
 * [广告系统中的探索与利用算法](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%88%A9%E7%94%A8%E7%AE%97%E6%B3%95.pdf). 品友互动 北京. 2016
-
-Fudan University, 2018
+* [大数据与金融](https://github.com/wzhe06/wzhe06.github.io/blob/master/resources/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%87%91%E8%9E%8D.pdf). 对外经贸大学 北京. 2015
 
 ## 技术博客
 - 机器学习模型
@@ -92,126 +90,7 @@ Fudan University, 2018
   - [大数据和金融的核心价值是什么？](https://zhuanlan.zhihu.com/p/20292789)
   - [从上升到破灭，股市各阶段的心理学](https://zhuanlan.zhihu.com/p/20292789)
 
-zhuanlan.zhihu.com
-图标
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+<br/>
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Updated on 03/06/2020 © Zhe Wang, 欢迎业界同行，相关方向研究生同学的交流、讨论、以及以及一切形式的合作。
 ```
