@@ -170,12 +170,12 @@ a {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 
   @include small {
@@ -286,7 +286,16 @@ a {
     }
   }
 
-  ul,
+  ul{
+    padding-bottom:0px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+  }
+  
+  li{
+    padding-top:3px;
+  }
+  
   ol {
     margin-top: 0;
   }
