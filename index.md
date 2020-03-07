@@ -45,13 +45,11 @@ layout: default
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=ipdatabase&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 
 ## 业界分享
-
 * Machine Learning Applications in Hulu Advertising System. Hulu Santa Monica, 2017
 * [计算广告中的探索与利用问题](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/%5BEE%20Intro%5D%20Exploration%20and%20Exploitation%20Problem%20Introduction%20by%20Wang%20Zhe%20%28Hulu%202017%29.pdf). Hulu 北京. 2017
 * [广告系统中的智能预算控制策略](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E9%A2%84%E7%AE%97%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5.pdf). 品友互动 北京. 2016
 * [广告系统中的探索与利用算法](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%88%A9%E7%94%A8%E7%AE%97%E6%B3%95.pdf). 品友互动 北京. 2016
-
-Fudan University, 2018
+* [大数据与金融](https://github.com/wzhe06/wzhe06.github.io/blob/master/resources/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%87%91%E8%9E%8D.pdf). 对外经贸大学 北京. 2015
 
 ## 技术博客
 - 机器学习模型
