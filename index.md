@@ -2,12 +2,12 @@
 layout: default
 ---
 <img height="220" align="left"  style="padding-right:30px;" src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/wzphoto.png"/>
-* 我目前是流媒体公司Roku的资深机器学习工程师，推荐系统架构负责人。
+* 我目前是流媒体公司[Roku](https://www.roku.com/)的资深机器学习工程师，推荐系统架构负责人。
 * 曾任Hulu高级研究员，品友互动广告效果算法组负责人。
-* 毕业于清华大学计算机系，清华大学KEG实验室学术搜索引擎AMiner早期贡献者。
+* 毕业于清华大学计算机系，清华大学KEG实验室[学术搜索引擎AMiner](https://www.aminer.cn/)早期贡献者。
 * 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
-* CTR Model，Ad-papers等开源项目发起人和主要贡献者，4.5k stars+。
-* 著有《深度学习推荐系统》，《百面机器学习》等技术书籍，读者5万+。
+* [CTRmodel](http://wzhe.me/CTRmodel/)，[Ad-papers](http://wzhe.me/Ad-papers/)等开源项目发起人和主要贡献者，4.5k stars+。
+* 著有《深度学习推荐系统》，[《百面机器学习》](https://item.jd.com/12401859.html)等技术书籍，读者5万+。
 
 ## 联系方式
 * **Email**: wzhe06[at]gmail.com
@@ -26,8 +26,8 @@ layout: default
 * Spark等大数据框架在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
-* Zhe Wang. Deep Learning Recommender System( 深度学习推荐系统). Electronics Industry Press. 2020 Mar.
-* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning( 百面机器学习) . Posts & Telecom Press. 2018 July.
+* Zhe Wang. Deep Learning Recommender System(深度学习推荐系统). Electronics Industry Press. 2020 Mar.
+* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习]((https://item.jd.com/12401859.html))) . Posts & Telecom Press. 2018 July.
 * Zhe Wang(Translator). Practical Machine Learning Cookbook. China Machine Press. 2018 Mar.
 * Zhe Wang. An Advertising Budget Control Algorithm and Device. Patent issuer number cn 201710653506.6. 2017 Aug
 * Zhe Wang. An Advertising Deliver Algorithm and Device.  Patent issuer number cn 201710653068.3. 2017 Aug
