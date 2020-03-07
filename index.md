@@ -33,7 +33,7 @@ layout: default
 * Zhe Wang. [An Advertising Deliver Algorithm and Device](http://www.soopat.com/Patent/201710653068). Patent number cn 201710653068. 2017.
 * Zhe Wang, Sanhong Gao, et al. [A Parallel Delaunay Algorithm Applied in Lunar Rover Stereo Vision System](https://www.atlantis-press.com/proceedings/iccsee-13/4645). 2nd ICCSEE. 2013.
 * Zhe Wang, Sanhong Gao, et al. [Elastic Parallel Computing Platform based Lunar Rover Stereo Vision System Design](https://www.scientific.net/AMM.380-384.3950). 63th IAC. 2012.
-* Zhe Wang, Jie Tang, et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science paper. 2010.
+* Zhe Wang, Jie Tang, et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science Paper. 2010.
 
 ## 开源项目
 * [CTRmodel](http://wzhe.me/CTRmodel/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
@@ -46,7 +46,7 @@ layout: default
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=ipdatabase&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 
 ## 业界分享
-* Machine Learning Applications in Hulu Advertising System. Hulu Santa Monica, 2017
+* Machine Learning Applications in Hulu Advertising System. Hulu Santa Monica. 2017
 * [计算广告中的探索与利用问题](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/%5BEE%20Intro%5D%20Exploration%20and%20Exploitation%20Problem%20Introduction%20by%20Wang%20Zhe%20%28Hulu%202017%29.pdf). Hulu 北京. 2017
 * [广告系统中的智能预算控制策略](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E9%A2%84%E7%AE%97%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5.pdf). 品友互动 北京. 2016
 * [广告系统中的探索与利用算法](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%88%A9%E7%94%A8%E7%AE%97%E6%B3%95.pdf). 品友互动 北京. 2016
