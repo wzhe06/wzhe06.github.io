@@ -19,21 +19,21 @@ layout: default
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="margin-left:40px"></iframe>
 
 ## 研究和工程方向
-* 基于Tensorflow，Spark Mllib的深度学习推荐模型，CTR预估模型
+* 基于Tensorflow，Spark MLlib的深度学习推荐模型，CTR预估模型
 * 智能预算控制算法，广告预算分配及Pacing策略
-* 高并发推荐系统服务器架构，Model serving及online inference工程框架
+* 高并发推荐系统服务器架构，Model Serving及Online Inference工程框架
 * Flink等流计算框架在推荐模型准实时训练和特征实时更新中的应用
 * Spark等大数据框架在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
 * Zhe Wang. Deep Learning Recommender System(深度学习推荐系统). Electronics Industry Press. 2020 Mar.
-* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习](https://item.jd.com/12401859.html)) . Posts & Telecom Press. 2018 July.
+* Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习](https://item.jd.com/12401859.html)) . Posts & Telecom Press. 2018 Jul.
 * Zhe Wang(Translator). Practical Machine Learning Cookbook([机器学习实践指南](https://item.jd.com/12336282.html)). China Machine Press. 2018 Mar.
-* Zhe Wang. [An Advertising Budget Control Algorithm and Device](http://www.soopat.com/Patent/201710653506). Patent issuer number cn 201710653506.6. 2017 Aug
-* Zhe Wang. [An Advertising Deliver Algorithm and Device](http://www.soopat.com/Patent/201710653068).  Patent issuer number cn 201710653068.3. 2017 Aug
-* Zhe Wang, et al. [A Parallel Delaunay Algorithm Applied in Lunar Rover Stereo Vision System](https://www.atlantis-press.com/proceedings/iccsee-13/4645). 2nd ICCSEE. 2013 Apr.
+* Zhe Wang. [An Advertising Budget Control Algorithm and Device](http://www.soopat.com/Patent/201710653506). Patent number cn 201710653506. 2017 Aug.
+* Zhe Wang. [An Advertising Deliver Algorithm and Device](http://www.soopat.com/Patent/201710653068). Patent number cn 201710653068. 2017 Aug.
+* Zhe Wang, Sanhong Gao, et al. [A Parallel Delaunay Algorithm Applied in Lunar Rover Stereo Vision System](https://www.atlantis-press.com/proceedings/iccsee-13/4645). 2nd ICCSEE. 2013 Apr.
 * Zhe Wang, Sanhong Gao, et al. [Elastic Parallel Computing Platform based Lunar Rover Stereo Vision System Design](https://www.scientific.net/AMM.380-384.3950). 63th IAC. 2012 Oct.
-* Zhe Wang, Jie Tang et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science paper. 2010 May.
+* Zhe Wang, Jie Tang, et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science paper. 2010 May.
 
 ## 开源项目
 * [CTRmodel](http://wzhe.me/CTRmodel/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
@@ -93,5 +93,5 @@ layout: default
 
 <br/>
 ```
-Updated on 03/06/2020 © Zhe Wang, 欢迎业界同行，相关方向研究生同学的交流、讨论、以及以及一切形式的合作。
+Updated on 03/06/2020 © Zhe Wang, 欢迎业界同行，相关方向研究生同学的交流、讨论以及一切形式的合作。
 ```
