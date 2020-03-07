@@ -49,12 +49,44 @@ layout: default
 ## 技术博客
 - 机器学习模型
   - [透着浓浓工业风的Facebook深度学习推荐系统论文](https://zhuanlan.zhihu.com/p/82839874)
-  - level 2 item
-- 工程实践
+  - [推荐系统中的注意力机制——阿里深度兴趣网络（DIN）](https://zhuanlan.zhihu.com/p/51623339)
+  - [重读Youtube深度学习推荐系统论文，字字珠玑，惊为神文](https://zhuanlan.zhihu.com/p/52169807)
+  - [YouTube深度学习推荐系统的十大工程问题](https://zhuanlan.zhihu.com/p/52504407)
+  - [万物皆Embedding，从经典的word2vec到深度学习基本操作item2vec](https://zhuanlan.zhihu.com/p/53194407)
+  - [从KDD 2018 Best Paper看Airbnb实时搜索排序中的Embedding技巧](https://zhuanlan.zhihu.com/p/55149901)
+  - [Airbnb如何解决Embedding的数据稀疏问题？](https://zhuanlan.zhihu.com/p/57313656)
+  - [回顾Facebook经典CTR预估模型](https://zhuanlan.zhihu.com/p/57987311)
+  - [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184)
+  - [前深度学习时代CTR预估模型的演化之路](https://zhuanlan.zhihu.com/p/61154299)
+  - [谷歌、阿里、微软等10大深度学习CTR模型最全演化图谱](https://zhuanlan.zhihu.com/p/63186101)
+  - [深度学习中不得不学的Graph Embedding方法](https://zhuanlan.zhihu.com/p/64200072)
+  - [关于Node2vec算法中Graph Embedding同质性和结构性的进一步探讨](https://zhuanlan.zhihu.com/p/64756917)
+  - [毕加索的「公牛」和机器学习的「特征工程」](https://zhuanlan.zhihu.com/p/65475550)
+  - [Embedding在深度推荐系统中的3大应用方向](https://zhuanlan.zhihu.com/p/67218758)
+- 机器学习系统及工程实践
   - [一文读懂「Parameter Server」的分布式机器学习训练原理](https://zhuanlan.zhihu.com/p/82116922)
+  - [算法工程师必须要知道的面试技能雷达图](https://zhuanlan.zhihu.com/p/54089811)
+  - [为什么说算法工程师的面试是一门玄学？](https://zhuanlan.zhihu.com/p/54497063)
+  - [揭开YouTube深度推荐系统模型Serving之谜](https://zhuanlan.zhihu.com/p/61827629)
+  - [Netflix推荐系统模型的快速线上评估方法——Interleaving](https://zhuanlan.zhihu.com/p/68509372)
+  - [不要犯战略性的失误——如何合理制定推荐系统的优化目标？](https://zhuanlan.zhihu.com/p/72549613)
+  - [推荐系统中比模型结构更重要的是什么？](https://zhuanlan.zhihu.com/p/73601088)
+  - [天下武功，唯快不破，论推荐系统的「 实时性」](https://zhuanlan.zhihu.com/p/74813776)
+  - [如何增强推荐系统模型更新的「实时性」？](https://zhuanlan.zhihu.com/p/75597761)
+  - [如何解决推荐系统工程难题——深度学习推荐模型线上serving？](https://zhuanlan.zhihu.com/p/77664408)
+  - [如何准备算法工程师面试，斩获一线互联网公司机器学习岗offer？](https://zhuanlan.zhihu.com/p/76827460)
+  - [分布式机器学习之——Spark MLlib并行训练原理](https://zhuanlan.zhihu.com/p/81784947)
+  - [一文读懂「Parameter Server」的分布式机器学习训练原理](https://zhuanlan.zhihu.com/p/82116922)
+  - [透着浓浓工业风的Facebook深度学习推荐系统论文](https://zhuanlan.zhihu.com/p/82839874)
 - 量化投资
+  - [股市大幅震荡，应该如何科学制定投资策略？](https://zhuanlan.zhihu.com/p/20078005)
+  - [如何搭建量化投资研究系统？（数据篇）](https://zhuanlan.zhihu.com/p/20098842)
+  - [如何搭建量化投资研究系统？（工具篇之quantmod）](https://zhuanlan.zhihu.com/p/20120226)
+  - [大数据和金融的核心价值是什么？](https://zhuanlan.zhihu.com/p/20292789)
+  - [从上升到破灭，股市各阶段的心理学](https://zhuanlan.zhihu.com/p/20292789)
 
-
+zhuanlan.zhihu.com
+图标
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
