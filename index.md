@@ -7,7 +7,7 @@ layout: default
 * 毕业于清华大学计算机系，清华大学KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
 * 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
 * [CTRmodel](http://wzhe.me/CTRmodel/)，[Ad-papers](http://wzhe.me/Ad-papers/) 等开源项目发起人和主要贡献者，4.5k stars+。
-* 著有《深度学习推荐系统》，《[百面机器学习](https://item.jd.com/12401859.html)》等技术书籍，读者5万+。
+* 著有《[深度学习推荐系统](https://item.jd.com/12630209.html)》，《[百面机器学习](https://item.jd.com/12401859.html)》等技术书籍，读者5万+。
 
 ## 联系方式
 * **Email**: wzhe06[at]gmail.com
@@ -26,7 +26,7 @@ layout: default
 * Spark等大数据框架在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
-* Zhe Wang. Deep Learning Recommender System(深度学习推荐系统). Electronics Industry Press. 2020.
+* Zhe Wang. Deep Learning Recommender System([深度学习推荐系统](https://item.jd.com/12630209.html)). Electronics Industry Press. 2020.
 * Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习](https://item.jd.com/12401859.html)) . Posts & Telecom Press. 2018.
 * Zhe Wang(Translator). Practical Machine Learning Cookbook([机器学习实践指南](https://item.jd.com/12336282.html)). China Machine Press. 2018.
 * Zhe Wang. [An Advertising Budget Control Algorithm and Device](http://www.soopat.com/Patent/201710653506). Patent number cn 201710653506. 2017.
