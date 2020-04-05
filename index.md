@@ -91,8 +91,8 @@ layout: default
   - [大数据和金融的核心价值是什么？](https://zhuanlan.zhihu.com/p/20292789)
   - [从上升到破灭，股市各阶段的心理学](https://zhuanlan.zhihu.com/p/20292789)
 
-## 访客
-<img style="margin-left:37px;" src="http://rf.revolvermaps.com/h/m/a/0/ff0000/256/0/5g2893qjwa4.png" width="512" height="256" alt="Map" style="border:0;">
+## 访客地图
+<img style="margin-left:37px;" src="http://rf.revolvermaps.com/h/m/a/0/ff0000/256/0/5g2893qjwa4.png" width="512" height="256" alt="Map" />
 <br/>
 ```
 Updated on 03/06/2020 © Zhe Wang, 欢迎业界同行，相关方向研究生同学的交流、讨论以及一切形式的合作。
