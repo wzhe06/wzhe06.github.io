@@ -49,7 +49,7 @@ layout: default
 
 ## 业界分享
 * [Embedding技术在推荐系统中的发展与应用](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd891e7998d_Kcy7qpMI/4). AIProCon. 2020
-* [深度学习在推荐系统中的应用与发展](https://www.bilibili.com/s/video/BV18z4y1f7WY). 清华大学. 2020
+* [深度学习在推荐系统中的应用与发展](https://www.bilibili.com/s/video/BV18z4y1f7WY). 清华大学在线课堂. 2020
 * Machine Learning Applications in Hulu Advertising System. Hulu Santa Monica. 2017
 * [计算广告中的探索与利用问题](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/%5BEE%20Intro%5D%20Exploration%20and%20Exploitation%20Problem%20Introduction%20by%20Wang%20Zhe%20%28Hulu%202017%29.pdf). Hulu 北京. 2017
 * [广告系统中的智能预算控制策略](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E9%A2%84%E7%AE%97%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5.pdf). 品友互动 北京. 2016
