@@ -37,7 +37,7 @@ layout: default
 
 ## 开源项目
 * [SparkCTR](http://wzhe.me/SparkCTR/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
-<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=CTRmodel&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparkCTR&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Ad-papers](http://wzhe.me/Ad-papers/): 计算广告领域的经典论文、学习资料、业界分享。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Reco-papers](http://wzhe.me/Reco-papers/):  推荐系统领域的经典论文、学习资料、业界分享。
