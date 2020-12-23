@@ -5,8 +5,8 @@ layout: default
 * 我目前是流媒体公司 [Roku](https://www.linkedin.com/company/roku/) 的资深机器学习工程师，推荐系统架构负责人。
 * 曾任 [Hulu](https://www.linkedin.com/company/hulu/) 高级研究员，[品友互动](https://www.linkedin.com/company/ipinyou/) 广告效果算法组负责人。
 * 毕业于清华大学计算机系，清华大学KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
-* 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
-* [SparkCTR](http://wzhe.me/SparkCTR/)，[Ad-papers](http://wzhe.me/Ad-papers/) 等开源项目发起人和主要贡献者，4.5k stars+。
+* 主要研究方向为推荐系统、计算广告，发表相关领域学术论文和专利10余项，曾担任[DLP-KDD](https://dlp-kdd.github.io/)联合主席，KDD、CIKM等国际会议审稿人。
+* [SparrowRecSys](https://github.com/wzhe06/SparrowRecSys)，[SparkCTR](http://wzhe.me/SparkCTR/)，[Ad-papers](http://wzhe.me/Ad-papers/) 等开源项目发起人和主要贡献者，6k stars+。
 * 著有《[深度学习推荐系统](https://item.jd.com/12630209.html)》，《[百面机器学习](https://item.jd.com/12401859.html)》等技术书籍，读者5万+。
 
 ## 联系方式
@@ -20,9 +20,9 @@ layout: default
 
 ## 研究和工程方向
 * 基于Tensorflow，Spark MLlib的深度学习推荐模型，CTR预估模型
-* 智能预算控制算法，广告预算分配及Pacing策略
 * 高并发推荐系统服务器架构，Model Serving及Online Inference工程框架
 * Flink等流计算框架在推荐模型准实时训练和特征实时更新中的应用
+* 智能预算控制算法，广告预算分配及Pacing策略
 * Spark等大数据框架在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
@@ -38,6 +38,8 @@ layout: default
 ## 开源项目
 * [SparkCTR](http://wzhe.me/SparkCTR/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparkCTR&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
+* [SparrowRecSys](http://wzhe.me/SparrowRecSys/): 包含了TensorFlow模型训练，Spark特征工程，Jetty Server推荐服务器的整套深度学习推荐系统。
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparrowRecSys&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Ad-papers](http://wzhe.me/Ad-papers/): 计算广告领域的经典论文、学习资料、业界分享。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Reco-papers](http://wzhe.me/Reco-papers/):  推荐系统领域的经典论文、学习资料、业界分享。
