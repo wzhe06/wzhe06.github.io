@@ -4,7 +4,7 @@ layout: default
 <img height="220" align="left"  style="padding-right:30px;" src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/wzphoto.png"/>
 * 我目前是流媒体公司 [Roku](https://www.linkedin.com/company/roku/) 的资深机器学习工程师，推荐系统架构负责人。
 * 曾任 [Hulu](https://www.linkedin.com/company/hulu/) 高级研究员，[品友互动](https://www.linkedin.com/company/ipinyou/) 广告效果算法组负责人。
-* 毕业于清华大学计算机系，清华大学KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
+* 毕业于清华大学计算机系，清华KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
 * 主要研究方向为推荐系统、计算广告，发表相关领域学术论文和专利10余项，曾担任[DLP-KDD](https://dlp-kdd.github.io/)联合主席，KDD、CIKM等国际会议审稿人。
 * [SparrowRecSys](https://github.com/wzhe06/SparrowRecSys)，[SparkCTR](http://wzhe.me/SparkCTR/)等开源项目发起人和主要贡献者，6k stars+。
 * 著有《[深度学习推荐系统](https://item.jd.com/12630209.html)》，《[百面机器学习](https://item.jd.com/12401859.html)》等技术书籍，读者6万+。
@@ -38,7 +38,7 @@ layout: default
 ## 开源项目
 * [SparkCTR](http://wzhe.me/SparkCTR/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparkCTR&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
-* [SparrowRecSys](http://wzhe.me/SparrowRecSys/): 基于TensorFlow模型训练，Spark特征工程，Jetty推荐服务器的整套深度学习推荐系统。
+* [SparrowRecSys](http://wzhe.me/SparrowRecSys/): 基于TensorFlow模型训练，Spark特征工程，Jetty推荐服务器的深度学习推荐系统。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparrowRecSys&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Ad-papers](http://wzhe.me/Ad-papers/): 计算广告领域的经典论文、学习资料、业界分享。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
@@ -48,7 +48,8 @@ layout: default
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=ipdatabase&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 
 ## 业界分享
-* [Embedding技术在推荐系统中的发展与应用](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd891e7998d_Kcy7qpMI/4). AIProCon. 2020
+* [深度学习推荐系统实战](http://gk.link/a/10lyE). 极客时间. 2020
+* [Embedding技术在推荐系统中的发展与应用](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd891e7998d_Kcy7qpMI/4). AIProCon线上大会. 2020
 * [深度学习在推荐系统中的应用与发展](https://www.bilibili.com/s/video/BV18z4y1f7WY). 清华大学在线课堂. 2020
 * Machine Learning Applications in Hulu Advertising System. Hulu Santa Monica. 2017
 * [计算广告中的探索与利用问题](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/%5BEE%20Intro%5D%20Exploration%20and%20Exploitation%20Problem%20Introduction%20by%20Wang%20Zhe%20%28Hulu%202017%29.pdf). Hulu 北京. 2017
