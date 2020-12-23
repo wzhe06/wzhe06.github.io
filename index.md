@@ -20,10 +20,10 @@ layout: default
 
 ## 研究和工程方向
 * 基于Tensorflow，Spark MLlib的深度学习推荐模型，CTR预估模型
-* 高并发推荐系统服务器架构，Model Serving及Online Inference工程框架
-* Flink等流计算框架在推荐模型准实时训练和特征实时更新中的应用
+* 高并发推荐系统服务架构，Model Serving及Online Inference工程框架
+* Flink等流计算平台在推荐模型准实时训练和特征实时更新中的应用
 * 智能预算控制算法，广告预算分配及Pacing策略
-* Spark等大数据框架在数据离线处理及特征工程中的应用
+* Spark等大数据平台在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
 * Zhe Wang. Deep Learning Recommender System([深度学习推荐系统](https://item.jd.com/12630209.html)). Electronics Industry Press. 2020.
