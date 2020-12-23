@@ -6,7 +6,7 @@ layout: default
 * 曾任 [Hulu](https://www.linkedin.com/company/hulu/) 高级研究员，[品友互动](https://www.linkedin.com/company/ipinyou/) 广告效果算法组负责人。
 * 毕业于清华大学计算机系，清华大学KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
 * 主要研究方向为推荐系统、计算广告、个性化搜索，发表相关领域学术论文和专利10余项，曾担任KDD、CIKM等国际会议审稿人。
-* [CTRmodel](http://wzhe.me/CTRmodel/)，[Ad-papers](http://wzhe.me/Ad-papers/) 等开源项目发起人和主要贡献者，4.5k stars+。
+* [SparkCTR](http://wzhe.me/SparkCTR/)，[Ad-papers](http://wzhe.me/Ad-papers/) 等开源项目发起人和主要贡献者，4.5k stars+。
 * 著有《[深度学习推荐系统](https://item.jd.com/12630209.html)》，《[百面机器学习](https://item.jd.com/12401859.html)》等技术书籍，读者5万+。
 
 ## 联系方式
@@ -36,7 +36,7 @@ layout: default
 * Zhe Wang, Jie Tang, et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science Paper. 2010.
 
 ## 开源项目
-* [CTRmodel](http://wzhe.me/CTRmodel/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
+* [SparkCTR](http://wzhe.me/SparkCTR/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=CTRmodel&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Ad-papers](http://wzhe.me/Ad-papers/): 计算广告领域的经典论文、学习资料、业界分享。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
