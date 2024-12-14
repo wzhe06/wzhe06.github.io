@@ -2,8 +2,8 @@
 layout: default
 ---
 <img height="220" align="left"  style="padding-right:30px;" src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/wzphoto.png"/>
-* 我目前是Disney [Disney](https://thewaltdisneycompany.com/) 的技术总监，广告平台机器学习、AI、广告算法方向负责人。
-* 曾任字节跳动 [ByteDance](https://www.linkedin.com/company/bytedance/) 的高级技术经理，Ads Ranking，Ad Network技术方向负责人。
+* 目前任[Disney](https://thewaltdisneycompany.com/) 技术总监，广告平台机器学习、AI、广告算法方向负责人。
+* 曾任[ByteDance](https://www.linkedin.com/company/bytedance/) 高级技术经理，Ads Ranking，Ad Network技术方向负责人。
 * 曾任[Roku](https://www.linkedin.com/company/roku/) Tech Lead，推荐系统架构负责人，[Hulu](https://www.linkedin.com/company/hulu/) 高级研究员，[品友互动](https://www.linkedin.com/company/ipinyou/) 广告效果算法组负责人。
 * 毕业于清华大学计算机系，清华KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
 * 主要研究方向为推荐系统、计算广告，发表相关领域学术论文和专利20余项，曾担任[DLP-KDD](https://dlp-kdd.github.io/)联合主席，KDD、CIKM等国际会议审稿人。
