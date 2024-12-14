@@ -102,7 +102,7 @@ layout: default
 
 ## 访客地图
 * <a href="https://clustrmaps.com/site/1c37i" title="Visit tracker"><img  src="//www.clustrmaps.com/map_v2.png?d=9M5vZ42WVJuAxbnQVKaGJkwAEUlK1dTmX25JIFApMm8&cl=ffffff"></a>
-<br/>
+
 ```
 Updated on 12/13/2024 © Zhe Wang, 欢迎业界同行，相关方向研究生同学的交流、讨论以及一切形式的合作。
 ```
