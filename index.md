@@ -100,7 +100,7 @@ layout: default
   - [从上升到破灭，股市各阶段的心理学](https://zhuanlan.zhihu.com/p/20292789)
 
 ## 访客地图
-<img style="margin-left:37px;" src="http://rf.revolvermaps.com/h/m/a/0/ff0000/256/0/5g2893qjwa4.png" width="512" height="256" alt="Map" />
+<a href="https://clustrmaps.com/site/1c37i" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=9M5vZ42WVJuAxbnQVKaGJkwAEUlK1dTmX25JIFApMm8&cl=ffffff"></a>
 <br/>
 ```
 Updated on 12/13/2024 © Zhe Wang, 欢迎业界同行，相关方向研究生同学的交流、讨论以及一切形式的合作。
