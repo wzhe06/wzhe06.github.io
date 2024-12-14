@@ -27,6 +27,8 @@ layout: default
 * Spark等大数据平台在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
+* Zhenhua Dong, Zhe Wang, et al. A Brief History of Recommender Systems(https://arxiv.org/abs/2209.01860)). 4th DLP-KDD. Sep 5, 2022
+* Zepeng Huai, Zhe Wang, et al. AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction(https://arxiv.org/abs/2208.07201)). CIKM 31st. Aug 15, 2022
 * Zhe Wang. Deep Learning Recommender System([深度学习推荐系统](https://item.jd.com/12630209.html)). Electronics Industry Press. 2020.
 * Yue Zhuge, Zhe Wang, et al. The Quest for Machine Learning([百面机器学习](https://item.jd.com/12401859.html)) . Posts & Telecom Press. 2018.
 * Zhe Wang(Translator). Practical Machine Learning Cookbook([机器学习实践指南](https://item.jd.com/12336282.html)). China Machine Press. 2018.
