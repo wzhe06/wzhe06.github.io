@@ -3,7 +3,7 @@ layout: default
 ---
 <img height="220" align="left"  style="padding-right:30px;" src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/wzphoto.png"/>
 * 现任[Disney](https://thewaltdisneycompany.com/) 技术总监，广告平台机器学习、AI、广告算法方向负责人。
-* 曾任[ByteDance](https://www.linkedin.com/company/bytedance/) 高级技术经理，Ads Ranking，Ad Network技术方向负责人。
+* 曾任[ByteDance](https://www.linkedin.com/company/bytedance/) 高级技术经理，Ads Ranking、Ad Network技术方向负责人。
 * 曾任[Roku](https://www.linkedin.com/company/roku/) Tech Lead，推荐系统架构负责人，[Hulu](https://www.linkedin.com/company/hulu/) 高级研究员。
 * 毕业于清华大学计算机系，清华KEG实验室 [学术搜索引擎AMiner](https://www.aminer.cn/) 早期贡献者。
 * 主要研究方向为推荐系统、计算广告，发表相关领域学术论文和专利20余项，曾担任[DLP-KDD](https://dlp-kdd.github.io/)联合主席，KDD、CIKM等国际会议审稿人。
@@ -52,7 +52,8 @@ layout: default
 * [ipdatabase](http://wzhe.me/ipdatabase/):  将IP快速转换成地理位置的工具库，直接提取用户的地理位置特征。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=ipdatabase&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 
-## 业界分享
+## 业界分享和课程
+* [程序员的个人财富课](https://time.geekbang.org/column/intro/426?code=Z8pLqJCzCnUsIZONhqbtbafY6mGWJzz3iN9K4tOGEH8%3D&utm_term=SPoster). 极客时间. 2022
 * [深度学习推荐系统实战](http://gk.link/a/10lyE). 极客时间. 2020
 * [Embedding技术在推荐系统中的发展与应用](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd891e7998d_Kcy7qpMI/4). AIProCon线上大会. 2020
 * [深度学习在推荐系统中的应用与发展](https://www.bilibili.com/s/video/BV18z4y1f7WY). 清华大学在线课堂. 2020
