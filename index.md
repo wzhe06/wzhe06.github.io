@@ -20,10 +20,10 @@ layout: default
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="margin-left:40px"></iframe>
 
 ## 研究和工程方向
-* 基于Tensorflow，Spark MLlib的深度学习推荐模型，CTR预估模型
+* 深度学习推荐模型，CTR、CVR预估模型
+* 广告Pacing，Bidding，Inventory Forecasting算法
 * 高并发推荐系统服务架构，Model Serving及Online Inference工程框架
 * Flink等流计算平台在推荐模型准实时训练和特征实时更新中的应用
-* 智能预算控制算法，广告预算分配及Pacing策略
 * Spark等大数据平台在数据离线处理及特征工程中的应用
 
 ## 部分论文、书籍和专利
@@ -37,10 +37,10 @@ layout: default
 * Zhe Wang, Jie Tang, et al. [Authority-based approach for advisor mining and individual recommendation](http://en.cnki.com.cn/Article_en/CJFDTotal-ZKZX201101009.htm). China Science Paper. 2010.
 
 ## 开源项目
-* [SparkCTR](http://wzhe.me/SparkCTR/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
-<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparkCTR&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [SparrowRecSys](http://wzhe.me/SparrowRecSys/): 基于TensorFlow模型训练，Spark特征工程，Jetty推荐服务器的深度学习推荐系统。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparrowRecSys&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
+* [SparkCTR](http://wzhe.me/SparkCTR/): 基于Spark的CTR预估模型，包括LR，FM，GBDT，DNN等。
+<iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=SparkCTR&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Ad-papers](http://wzhe.me/Ad-papers/): 计算广告领域的经典论文、学习资料、业界分享。
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&repo=Ad-papers&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="padding-bottom:0px;padding-left:40px"></iframe>
 * [Reco-papers](http://wzhe.me/Reco-papers/):  推荐系统领域的经典论文、学习资料、业界分享。
