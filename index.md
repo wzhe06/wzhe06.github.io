@@ -18,6 +18,7 @@ layout: default
 <img height="120"  src="https://raw.githubusercontent.com/wzhe06/wzhe06.github.io/master/resources/wechatscan.jpg"/>
 * **GitHub**: [https://github.com/wzhe06](https://github.com/wzhe06)
 <iframe src="https://ghbtns.com/github-btn.html?user=wzhe06&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px" style="margin-left:40px"></iframe>
+* **付费咨询** [技术方案，职业发展，理财投资等付费咨询](https://www.zhihu.com/consult/people/723799727681839104)
 
 ## 研究和工程方向
 * 深度学习推荐模型，CTR、CVR预估模型
